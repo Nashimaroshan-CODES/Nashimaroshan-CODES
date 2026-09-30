@@ -1,19 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=NASHIMA%20ROSHAN%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20Full%20Stack%20%7C%20IoT%20%7C%20Salesforce&descAlignY=58&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=NASHIMA%20ROSHAN%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BCA%20Graduate%20%7C%20Aspiring%20Software%20Developer&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Full+Stack+Development+Trainee;Python+%7C+Java+%7C+C+%7C+C%2B%2B;IoT+%26+Embedded+Systems+Enthusiast;Salesforce+CRM+Developer;Building+Real-World+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Learning+Full+Stack+Development;Building+IoT+Projects;Exploring+Salesforce+CRM;Developing+Python+REST+APIs" alt="Typing SVG"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/BCA-2023--2026-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FULL%20STACK-TRAINEE-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IoT-%26%20EMBEDDED-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TIRUPUR-TAMIL%20NADU-4C1D95?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-Software%20Development-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BASED%20IN-Tirupur%2C%20India-4C1D95?style=for-the-badge"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/nashima-roshan-9461b7419">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -21,7 +20,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Nashimaroshan-CODESethu">
+<a href="#">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -31,105 +30,62 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Nashima Roshan S**, a BCA graduate and aspiring Software Developer from Tirupur, Tamil Nadu.
+Hello! I'm **Nashima Roshan S**, a BCA graduate and aspiring Software Developer with an interest in **Full Stack Development, Web Development, IoT, REST APIs, Database Management, and Salesforce CRM**.
 
-I'm currently undergoing **Full Stack Development training**, where I'm gaining hands-on experience in frontend, backend, databases, REST APIs and modern web application development.
+I enjoy learning through practical projects and building solutions using different technologies — from **C command-line applications** and **Python REST APIs** to **IoT-based security systems** and **Salesforce CRM applications**.
 
-My technical interests include:
+Currently, I am undergoing **Full Stack Development training at Nobel Software Solutions, Tirupur**, where I am gaining hands-on experience in front-end development, back-end development, databases, REST APIs, Git, and web application development.
 
-- 💻 Full Stack Web Development
-- 🐍 Python Development
-- ☕ Java & C/C++
-- 🌐 REST API Development
-- 🔥 IoT & Embedded Systems
-- ☁️ Cloud & DevOps
-- ⚡ Salesforce CRM
-- 🤖 AI with Python
+```yaml
+name: Nashima Roshan S
+education: BCA, St. Joseph's College for Women, Tirupur
+role: Aspiring Software Developer
 
-I enjoy transforming ideas into practical projects and continuously improving my programming, problem-solving and software development skills.
+interests:
+  - Software Development
+  - Full Stack Development
+  - Web Development
+  - IoT & Embedded Systems
+  - Salesforce CRM
+  - REST APIs
+  - Database Management
 
----
+currently_learning:
+  - React.js
+  - Node.js
+  - Express.js
+  - MERN Stack
+  - AWS
+  - Docker
+  - Kubernetes
+  - DevOps
 
-## 🎓 Education
-
-### 🎓 Master of Business Administration
-**Manipal University, Jaipur**  
-2026 – 2028 | In Progress
-
-### 🎓 Bachelor of Computer Applications (BCA)
-**St. Joseph's College for Women, Tirupur**  
-2023 – 2026  
-Bharathiar University
-
----
-
-## 💼 Internship & Training
-
-### 🚀 Full Stack Development Trainee
-**Nobel Software Solutions, Tirupur**  
-May 2026 – Present
-
-Currently gaining hands-on experience in:
-
-`HTML` `CSS` `JavaScript` `React.js` `Node.js` `Express.js` `MySQL`
-
-Also working with:
-
-`JSON` `REST APIs` `Git` `GitHub`
-
-Learning practical concepts including:
-
-- Frontend Development
-- Backend Development
-- Database Management
-- API Integration
-- Web Application Development
-- Application Deployment
-- Software Development Life Cycle
+mindset: Learn → Build → Debug → Improve
+```
 
 ---
 
-### 🐍 Python Stack Development Training
-**Nobel Software Solutions, Tirupur**  
-May 2025 – July 2025
+# 🛠️ Tech Stack
 
-Training covered:
-
-- Python Stack Development
-- REST API Development
-- Database Integration
-- MySQL
-- Git & GitHub
-- Backend Development
-- API Testing
-- SDLC
-
-### 🛒 Training Project
-**E-Commerce API Development**
-
-Developed backend APIs for an e-commerce platform with functionalities related to:
-
-- Product Management
-- Cart Management
-- Order Processing
-- REST APIs
-- MySQL Database
-
----
-
-# 🛠️ Technical Skills
-
-### 👨‍💻 Programming Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js"/>
 </p>
+
+`Python` `Java` `C` `C++` `JavaScript`
+
+---
 
 ### 🌐 Web Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
+
+`HTML5` `CSS3` `JavaScript`
+
+---
 
 ### ⚛️ Frameworks & Libraries
 
@@ -137,11 +93,22 @@ Developed backend APIs for an e-commerce platform with functionalities related t
 <img src="https://skillicons.dev/icons?i=react,nodejs,express"/>
 </p>
 
-### 🗄️ Database
+`React.js` *(Learning)*
+`Node.js` *(Learning)*
+`Express.js` *(Learning)*
+`MERN Stack` *(Learning)*
+
+---
+
+### 🗄️ Database & APIs
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
+
+`SQL` `MySQL` `REST APIs` `JSON` `DBMS`
+
+---
 
 ### ☁️ Cloud & DevOps
 
@@ -149,294 +116,390 @@ Developed backend APIs for an e-commerce platform with functionalities related t
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes"/>
 </p>
 
-### 🔧 Tools & Platforms
+`AWS` *(Learning)*
+`Docker` *(Learning)*
+`Kubernetes` *(Learning)*
+`DevOps` *(Learning)*
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,arduino"/>
-</p>
+---
 
-### ☁️ Salesforce
+### ☁️ Salesforce CRM
 
-`Salesforce CRM` `Apex` `SOQL` `Lightning App Builder` `Salesforce Flow`
+`Salesforce CRM` `Apex` `SOQL`
+`Lightning App Builder` `Salesforce Flow`
+`Validation Rules` `Approval Process` `Apex Triggers` `Scheduled Apex`
+
+---
 
 ### 🔌 IoT & Embedded Systems
 
-`NodeMCU ESP8266` `Arduino IDE` `Embedded C` `Sensor Integration` `Wi-Fi Communication`
+<p>
+<img src="https://skillicons.dev/icons?i=arduino"/>
+</p>
 
-### 📚 Software Development
+`NodeMCU ESP8266` `Arduino IDE`
+`Embedded Systems` `IoT Development`
+`Sensor Integration` `Wi-Fi Communication`
 
-`OOP` `Data Structures & Algorithms` `REST APIs` `SDLC` `DBMS` `Database Management`
+---
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux"/>
+</p>
+
+`Git` `GitHub` `Visual Studio Code` `Eclipse IDE`
+`Linux` `Windows` `Microsoft Office`
+
+---
+
+# 🎓 Education
+
+### 🎓 Master of Business Administration (MBA)
+
+**Manipal University, Jaipur**
+**2026 – 2028 | In Progress**
+
+---
+
+### 🎓 Bachelor of Computer Applications (BCA)
+
+**St. Joseph's College for Women, Tirupur**
+**2023 – 2026**
+
+---
+
+# 💼 Training & Experience
+
+## 🚀 Full Stack Development Trainee
+
+**Noble Software Solutions, Tirupur**
+**May 2026 – Present**
+
+Currently undergoing professional Full Stack Development training with hands-on experience in:
+
+* HTML, CSS & JavaScript
+* React.js
+* Node.js
+* Express.js
+* MySQL
+* JSON
+* REST APIs
+* Git & GitHub
+* Front-end development
+* Back-end development
+* Database management
+* API integration
+* Web application deployment
+* Full Stack project development
+
+---
+
+## 🐍 Python Stack Development
+
+**Nobel Software Solutions, Tirupur**
+**May 2025 – July 2025**
+
+* Completed hands-on training in Python Stack Development.
+* Worked with server-side scripting and REST API development.
+* Developed backend REST API modules for an e-commerce platform.
+* Worked with MySQL for database design and data handling.
+* Used Git/GitHub for version control.
+* Gained practical exposure to SDLC, debugging, and API testing.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔐 01. Laser Beam Security Grid – IoT
+## 🚨 01. Laser Beam Security Grid — IoT
 
-**December 2025 – March 2026**
+An IoT-based security system designed for **real-time intrusion detection**.
 
-An IoT-based laser security system designed for real-time intrusion detection.
+The system uses a laser transmitter and LDR sensor with NodeMCU ESP8266 to detect beam interruptions and trigger an instant buzzer alarm.
 
-### Key Features
+**Technologies:**
 
-- Laser transmitter and LDR sensor integration
-- NodeMCU ESP8266 processing
-- Real-time beam interruption detection
-- Automatic buzzer alarm
-- Wi-Fi connectivity
-- Sensor-based security automation
-
-### Technologies
-
-`IoT` `Embedded Systems` `NodeMCU` `Arduino IDE` `LDR Sensor` `Wi-Fi` `Embedded C`
+`IoT` `Embedded Systems` `NodeMCU ESP8266`
+`Arduino IDE` `LDR` `Laser Transmitter` `Buzzer` `Wi-Fi`
 
 ---
 
-## 🏠 02. Lease Management System – Salesforce CRM
+## 🏠 02. Lease Management System — Salesforce CRM
 
-**June 2025 – October 2025**
+A Salesforce-based application designed to manage **properties, tenants, leases, and payments**.
 
-Salesforce-based application designed to manage property leasing operations.
+Implemented automation features to streamline business processes and improve data accuracy.
 
-### Features
+**Technologies:**
 
-- Property Management
-- Tenant Management
-- Lease Management
-- Payment Tracking
-- Automated Emails
-- Workflow Automation
-
-### Salesforce Technologies
-
-`Salesforce CRM` `Apex` `SOQL` `Lightning App Builder` `Salesforce Flow` `Validation Rules` `Approval Process` `Scheduled Apex`
+`Salesforce CRM` `Apex` `SOQL`
+`Lightning App Builder` `Salesforce Flow`
+`Validation Rules` `Approval Process`
+`Apex Triggers` `Scheduled Apex`
 
 ---
 
-## 🛡️ 03. Guardian Care Autonomous Safety Network – IoT
+## 🛡️ 03. Guardian Care Autonomous Safety Network — IoT
 
-IoT-based security system designed for restricted-area monitoring.
+An IoT-based security system designed for monitoring restricted areas.
 
-### Features
+The system uses sensors to detect movement and measure distance, while providing immediate alerts through buzzer and LED indicators.
 
-- PIR sensor for movement detection
-- HC-SR04 ultrasonic sensor
-- NodeMCU ESP8266
-- Buzzer alerts
-- LED alerts
-- Wi-Fi connectivity
-- Real-time safety monitoring
+**Technologies:**
 
-### Technologies
-
-`IoT` `Embedded Systems` `NodeMCU` `PIR Sensor` `HC-SR04` `Arduino IDE` `Embedded C`
+`NodeMCU ESP8266` `PIR Sensor`
+`HC-SR04 Ultrasonic Sensor` `Arduino IDE`
+`Embedded C` `Wi-Fi` `Buzzer` `LED`
 
 ---
 
 ## 🌱 04. Automatic Irrigation System
 
-IoT-based irrigation system designed to automate plant watering based on environmental conditions.
+An IoT-based system designed to automate plant irrigation based on **soil moisture and rainfall conditions**.
 
-### Features
+A relay module is used to control the water pump and help reduce water wastage and over-irrigation.
 
-- Soil moisture monitoring
-- Rain detection
-- Automatic water pump control
-- Relay-based switching
-- Water wastage reduction
+**Technologies:**
 
-### Technologies
-
-`NodeMCU` `IoT` `Soil Moisture Sensor` `Rain Sensor` `Relay` `Blynk`
+`NodeMCU` `IoT` `Rain Sensor`
+`Soil Moisture Sensor` `Relay Module` `Blynk`
 
 ---
 
-## 🔥 05. Elite Exhaust Care – LPG Leakage & Smoke Detection
+## 🔥 05. Elite Exhaust Care
 
-Smart kitchen safety monitoring system designed to detect hazardous conditions.
+### LPG Leakage & Smoke Detection Safety System
 
-### Detects
+An IoT-based Smart Kitchen Safety Monitoring System designed to detect:
 
-- LPG Gas Leakage
-- Smoke
-- Fire
-- Abnormal Temperature
+* LPG gas leakage
+* Fire
+* Smoke
+* Abnormal temperature
 
-### Features
+The system uses sensors to detect hazardous conditions and provides alerts through a buzzer and cloud-based notifications.
 
-- Sensor-based hazard detection
-- Buzzer alerts
-- Wi-Fi connectivity
-- Cloud-based notifications
-- Remote monitoring
+**Technologies:**
 
-### Technologies
-
-`ESP8266` `Embedded C` `MicroPython` `MQ-2 Gas Sensor` `Flame Sensor` `Temperature Sensor` `Blynk` `Firebase`
+`ESP8266` `Embedded C` `MicroPython`
+`MQ-2 Gas Sensor` `Flame Sensor`
+`Temperature Sensor` `Blynk` `Firebase` `Wi-Fi`
 
 ---
 
-## 💎 06. CRM Jewel Management System
+## 💎 06. CRM Jewel Management System — Salesforce
 
-Salesforce-based CRM application for managing customer information and sales records.
+A Salesforce CRM application developed to manage **customer information and sales records**.
 
-### Features
+Created reports and dashboards to provide business insights and improve organized data management.
 
-- Customer Management
-- Sales Record Management
-- Reports
-- Dashboards
-- Business Data Management
+**Technologies:**
 
-### Technologies
-
-`Salesforce CRM` `Reports` `Dashboards` `Data Management`
+`Salesforce CRM` `Reports & Dashboards` `Data Management`
 
 ---
 
-## 🎵 07. MP3 Tag Reader & Editor
+## 🎵 07. MP3 Tag Reader & Editor — C
 
-Command-line application developed in C for reading and modifying MP3 ID3 metadata.
+A command-line application developed to read and modify **ID3 metadata from MP3 files**.
 
-### Features
+Supports metadata such as:
 
-- View song title
-- Artist information
-- Album information
-- Year
-- Track number
-- Genre
-- Metadata editing
+* Song Title
+* Artist
+* Album
+* Year
+* Track Number
+* Genre
 
-### Technologies
+**Technologies:**
 
-`C` `Structures` `Pointers` `File Handling` `Bitwise Operations` `Binary File Handling` `Command Line Arguments`
-
----
-
-## 🖼️ 08. Image Steganography – LSB Encoding & Decoding
-
-Application for hiding and retrieving secret text messages inside BMP image files.
-
-### Features
-
-- LSB encoding
-- LSB decoding
-- Secret message embedding
-- Secret message extraction
-- BMP file handling
-- Image integrity preservation
-
-### Technologies
-
-`C` `File Handling` `Bitwise Operations` `Pointers` `Structures` `BMP Format`
+`C Programming` `Structures` `Pointers`
+`File Handling` `String Handling`
+`Bitwise Operations` `Command Line Arguments`
+`ID3 Metadata` `Binary File Handling`
 
 ---
 
-## 📒 09. Address Book Management System
+## 🖼️ 08. Image Steganography — LSB Encoding & Decoding
 
-Command-line C application for efficient contact management.
+A C-based application that securely hides and extracts text messages inside **BMP image files** using the Least Significant Bit algorithm.
 
-### Features
+The project focuses on maintaining image integrity while accurately encoding and decoding hidden information.
 
-- Add contacts
-- Search contacts
-- Edit contacts
-- Delete contacts
-- Display contacts
-- Save contacts
-- Load contacts
+**Technologies:**
 
-### Technologies
+`Advanced C` `File Handling`
+`Bitwise Operations` `Pointers`
+`Structures` `Functions` `Command Line Arguments`
 
-`C` `Structures` `Pointers` `File Handling` `String Handling` `CLI`
+---
+
+## 📒 09. Address Book Management System — C
+
+A command-line contact management application supporting:
+
+* Add contacts
+* Search contacts
+* Edit contacts
+* Delete contacts
+* Display contacts
+* Save contacts
+* Load contacts
+
+Implemented file handling to maintain contact data between program executions.
+
+**Technologies:**
+
+`C` `Structures` `File Handling`
+`Functions` `Pointers` `String Handling` `CLI`
 
 ---
 
 ## 🛒 10. E-Commerce API Development
 
-Backend API project developed during Python Stack Development training.
+A backend API project developed during **Python Stack Development training**.
 
-### Features
+The project focused on product management and backend data handling for an e-commerce platform.
 
-- Product management
-- Cart management
-- Order processing
-- REST API development
-- Database integration
+**Technologies:**
 
-### Technologies
-
-`Python` `REST API` `MySQL` `Git` `GitHub`
+`Python` `REST APIs` `MySQL` `Git` `GitHub`
 
 ---
 
-# 🧠 Current Learning Journey
+# 📚 Learning Journey
 
 ```text
 BCA
- ↓
-C / C++
- ↓
-Python Development
- ↓
+  ↓
+C Programming
+  ↓
+Python Stack Development
+  ↓
 Salesforce CRM
- ↓
+  ↓
 IoT & Embedded Systems
- ↓
+  ↓
 REST API Development
- ↓
+  ↓
 Full Stack Development
- ↓
+  ↓
 Cloud & DevOps
- ↓
-Software Developer
-📚 Currently Learning
-React.js
-Node.js
-Express.js
-MySQL
-REST APIs
-AWS
-Docker
-Kubernetes
-DevOps
-🏆 Research & Achievement
-📄 Research Paper
+  ↓
+Aspiring Software Developer
+```
 
-"How API Works in Today's World"
+---
 
-Published and presented as an author at an International Conference held at A.V.P College, Tirupur.
+# 🎯 Currently Learning
 
-The research covered:
+```yaml
+Full_Stack:
+  - React.js
+  - Node.js
+  - Express.js
+  - MERN Stack
+  - REST APIs
+  - MySQL
 
-API role
-API architecture
-Real-world API applications
-Modern software systems
-💡 Core Competencies
-🔌 IoT & Embedded Systems
-🧪 Software Testing & Debugging
-🧩 Problem Solving
-📊 Analytical Thinking
-🤝 Team Collaboration
-💬 Communication
-⏱️ Time Management
-🔄 Adaptability
-📚 Continuous Learning
-🌐 Languages
+Cloud_DevOps:
+  - AWS
+  - Docker
+  - Kubernetes
+  - DevOps Fundamentals
 
-English Tamil Urdu Hindi
+Software_Development:
+  - SDLC
+  - Database Management
+  - API Integration
+  - Web Application Development
+  - Debugging & Testing
+```
 
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nashimaroshan-CODESethu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nashimaroshan-CODESethu&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-🤝 Connect With Me
-<div align="center"> <a href="https://www.linkedin.com/in/nashima-roshan-9461b7419"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:nashimaroshan2005@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Nashimaroshan-CODESethu"> <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+---
+
+# 🧠 Core Competencies
+
+* IoT & Embedded Systems
+* Software Testing & Debugging
+* Problem Solving
+* Analytical Thinking
+* Team Collaboration
+* Communication Skills
+* Time Management
+* Adaptability
+* Continuous Learning
+
+---
+
+# 🏆 Research & Achievement
+
+### 📄 Research Paper
+
+**"How APIs Work in Today's World"**
+
+Authored and presented a research paper at an **International Conference held at A.V.P. College, Tirupur**.
+
+The paper covers the role, architecture, and real-world applications of APIs in modern software systems.
+
+---
+
+# 🌐 Languages
+
+`English` `Tamil` `Urdu` `Hindi`
+
+---
+
+# 📊 GitHub
+
 <div align="center">
-✨ Learn • Build • Improve • Grow
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Real-World+Projects;Learning+Every+Day;Turning+Ideas+Into+Solutions;Aspiring+Software+Developer" alt="Footer Animation"/>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Growing-6D28D9?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:nashimaroshan2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Learn. Build. Debug. Grow.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;Building+Real-World+Projects;One+Project+At+A+Time;Always+Learning+Something+New" alt="Footer Animation"/>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
 </div>
